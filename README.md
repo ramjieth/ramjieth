@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Ramjieth  
 
-<!--
-**ramjieth/ramjieth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 📍 Kozhikkode, Kerala, India 🇮🇳  
+- 🎓 BCA Graduate  
+- 🔐 Completed Cybersecurity Course  
+- 💻 Passionate about Ethical Hacking & Security Research  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills  
+- 🔍 Web Application Penetration Testing  
+- 🛡️ Vulnerability Assessment  
+- 🌐 Networking Fundamentals  
+- 🖥️ Kali Linux & Linux Basics  
+
+---
+
+## 🛠️ Tools & Technologies  
+- ⚙️ Nmap  
+- 🐞 Burp Suite  
+- 💣 Metasploit  
+- 📡 Wireshark  
+
+---
+
+## 📂 Projects  
+- 🔍 Network Traffic Analysis Tool  
+- 🛡️ Web Security Testing Labs  
+- 📊 Cybersecurity Awareness Presentations  
+
+---
+
+## 📚 Currently Learning  
+- 🔐 Advanced Web Exploitation  
+- ☁️ Cloud Security Basics  
+- 🧑‍💻 Bug Bounty Hunting  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email:Ramjithrambrnd@gmail.com  
+- 💼 LinkedIn: your-linkedin-profile  
+
